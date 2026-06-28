@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-28",
+  "seeds": {
+  "Tulip": "UNCOMMON",
+  "Tomato": "UNCOMMON",
+  "Apple": "UNCOMMON",
+  "Bamboo": "RARE",
+  "Corn": "RARE",
+  "Cactus": "RARE",
+  "Pineapple": "RARE",
+  "Mushroom": "EPIC",
+  "Green Bean": "EPIC",
+  "Banana": "EPIC",
+  "Grape": "EPIC",
+  "Coconut": "EPIC",
+  "Mango": "EPIC",
+  "Dragon Fruit": "LEGENDARY",
+  "Acorn": "LEGENDARY",
+  "Cherry": "LEGENDARY",
+  "Sunflower": "LEGENDARY",
+  "Venus Fly Trap": "MYTHIC",
+  "Pomegranate": "MYTHIC",
+  "Poison Apple": "MYTHIC",
+  "Venom Spitter": "MYTHIC",
+  "Moon Bloom": "SUPER",
+  "Hypno Bloom": "SUPER",
+  "Dragon's Breath": "SUPER"
+  }
+}
